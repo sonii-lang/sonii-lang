@@ -1,0 +1,9 @@
+class year{
+public static void main (String args[]){
+int a=2022;
+if(n%4==00;
+system.out.println("is a leap year");
+else 
+system.out.println("not a leap year"):
+}
+}
